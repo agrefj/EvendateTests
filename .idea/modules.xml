@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evendateTests.iml" filepath="$PROJECT_DIR$/.idea/modules/evendateTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evendateTests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/evendateTests_main.iml" group="evendateTests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/evendateTests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/evendateTests_test.iml" group="evendateTests" />
+    </modules>
+  </component>
+</project>
